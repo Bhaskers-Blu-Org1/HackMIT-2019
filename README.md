@@ -1,13 +1,32 @@
-## repo-template
-The purpose of this project is to provide  a template for new open source repositories.
+# HackMIT-2019
 
-This repository contains some example best practices for open source repositories, including [LICENSE](LICENSE) file, boilerplate [README.md](README.md),  [CONTRIBUTING.md](CONTRIBUTING.md), and [MAINTAINERS.md](MAINTAINERS.md) files. These may be copied into a new or existing project to make it easier for developers not on a project team to collaborate.
+<p align="center">
+  <img width="280" src="https://hackmit.org/assets/images/logos/ibm.png">
+</p>
 
-**NOTE: While this boilerplate project uses the Apache 2.0 license, when
-establishing a new repo using this template, please use the
-license that was approved for your project.**
+<p align="center">
+  <img width="500" src="https://raw.githubusercontent.com/derekteay/HackMIT-2019/master/images/HackMIT-banner.png">
+</p>
 
-**NOTE: This repository has been configured with the DCO bot. When you set up
-a new repository that uses the Apache license, you should use the DCO to manage
-contributions. The DCO bot will help enforce that. Please contact one of the
-IBM GH Org stewards.**
+This page will have all of our IBM resources listed here.
+
+# Prizes
+* 1st Place - $2000
+* 2nd Place - $1000
+* 5 Tello Drones - Awarded for best use of IBM Visual Recognition
+
+# Join our Slack channel
+* https://callforcode.org/slack - #hackmit-2019
+
+# Register
+* https://ibm.biz/BdzKAk
+
+# IBM Cloud Catalog
+* https://cloud.ibm.com/catalog
+
+# Code Patterns
+* https://developer.ibm.com/patterns/
+
+# More Info
+* Call For Code - https://developer.ibm.com/callforcode/
+* Code and Response - https://developer.ibm.com/code-and-response/
