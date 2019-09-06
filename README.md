@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="500" src="https://raw.githubusercontent.com/derekteay/HackMIT-2019/master/images/HackMIT-banner.png">
+  <img width="500" src="https://raw.githubusercontent.com/IBM/HackMIT-2019/master/images/HackMIT-banner.png">
 </p>
 
 This page will have all of our IBM resources listed here.
