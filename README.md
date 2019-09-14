@@ -10,6 +10,9 @@
 
 This page will have all of our IBM resources listed here.
 
+# <font color="red">\*\*\*START HERE\*\*\* - Register</font>
+* https://ibm.biz/BdzKAk
+
 # Main Challenge Prizes
 * 1st Place - $2000
 * 2nd Place - $1000
@@ -28,9 +31,6 @@ This page will have all of our IBM resources listed here.
 
 # Join our Slack channel
 * https://callforcode.org/slack - #hackmit-2019
-
-# Register
-* https://ibm.biz/BdzKAk
 
 # IBM Cloud Catalog
 * https://cloud.ibm.com/catalog
